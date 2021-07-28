@@ -1,0 +1,5 @@
+flask
+chess
+websockets
+flask_socketio
+socketio
